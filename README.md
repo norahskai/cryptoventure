@@ -1,4 +1,6 @@
+You can view the application here:
 
+https://puzzleeeeeeeegamee.netlify.app/
 
 
 # Crypto Venture
